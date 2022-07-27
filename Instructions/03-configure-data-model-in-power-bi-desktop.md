@@ -314,7 +314,7 @@ _重要:前のラボから継続している (および、そのラボを正常�
 
    ![画像 353](Linked_image_Files/03-configure-data-model-in-power-bi-desktop_image34.png)
 
-3. 次の 3 つの列を分類します。
+3. 各列（階層レベルではない）のデータカテゴリを、それぞれ設定します。
 
    - **Country-Region** を **[国/地域]** として
 
