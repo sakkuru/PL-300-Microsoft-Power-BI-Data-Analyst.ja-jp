@@ -164,7 +164,7 @@ _重要:前のラボから続行している場合 (かつそのラボを正常�
 
     ![画像 102](Linked_image_Files/02-load-data-with-power-query-in-power-bi-desktop_image19.png)
 
-12. 列を含めるには、次の 6 つの列を確認します。
+12. 列を含めるため、次の 6 つの列のチェックボックスをオンします。
 
     - EmployeeKey
 
