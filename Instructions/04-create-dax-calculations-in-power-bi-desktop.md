@@ -482,6 +482,94 @@ _ヒント:数式が長くて複雑な場合は特に、直感的で読みやす
 
     ![画像 39](Linked_image_Files/05-create-dax-calculations-in-power-bi-desktop_image43.png)
 
+
+### タスク 2: 追加のメジャーの作成
+
+このタスクでは、より複雑な数式を使用する追加のメジャーを作成します。
+
+1. レポートビューで、**ページ1** を選択します。
+
+	![画像40](Linked_image_Files/05-create-dax-calculations-in-power-bi-desktop_image44.png)。
+
+2. 表のビジュアルを確認し、**Target**の列の合計に注目します。
+
+	![画像41](Linked_image_Files/05-create-dax-calculations-in-power-bi-desktop_image45.png)
+
+
+3. テーブルビジュアルを選択し、**Visualizations** ペインで **Target** フィールドを削除します。
+
+	![画像42](Linked_image_Files/05-create-dax-calculations-in-power-bi-desktop_image46.png)
+
+4. **Targets | Target** 列を **Targets | TargetAmount** にリネームします。
+
+	*ヒント: レポートビューで列の名前を変更するには、いくつかの方法があります。ヒント: Report ビューで列の名前を変更するにはいくつかの方法があります: **Fields** ペインで列を右クリックして、**Rename** を選択するか、列をダブルクリックするか、 **F2*** を押してください。
+
+	 これから **Target** という名前のメジャーを作成します。同じテーブルで、同じ名前の列とメジャーを作成することはできません。
+
+5. **Targets** テーブルに以下のメジャーを作成します。
+
+
+	**DAX**
+
+	```
+	Target =
+
+	IF(
+
+	HASONEVALUE('Salesperson (Performance)'[Salesperson]),
+
+	SUM(Targets[TargetAmount])
+
+	)
+	```
+
+
+	*HASONEVALUE() 関数は、**Salesperson** 列の単一の値がフィルターにかけられるかどうかをテストします。true の場合、この式は (その営業担当者だけの) 目標金額の合計を返します。false の場合、BLANK が返されます。*
+
+6. **Target** メジャーを小数点以下 0 桁でフォーマットします。
+
+	*ヒント: **Measure Tools** コンテキスト・リボンを使用することができます。*
+
+7. **TargetAmount** 列を非表示にします。
+
+	*ヒント: **Fields**ペインで列を右クリックし、**Hide**を選択することができます。*
+
+8. **Target** メジャーをテーブルビジュアルに追加します。
+
+9. **Target** 列の合計が空白になったことに注意してください。
+
+	![画像43](Linked_image_Files/05-create-dax-calculations-in-power-bi-desktop_image47.png)
+
+10. スニペット・ファイルの定義を使用して、**Targets** テーブルの以下の 2 つのメジャーを作成します。
+
+	- Variance
+
+	- Variance Margin
+
+11. **Variance** メジャーを小数点以下 0 桁でフォーマットします。
+
+12. **Variance Margin** メジャーを小数点以下 2 桁のパーセンテージでフォーマットします。
+
+13. **Variance** および **Variance Margin** メジャーを表ビジュアルに追加します。
+
+14. すべての列と行が見えるように、表ビジュアルのサイズを変更します。
+
+	![画像44](Linked_image_Files/05-create-dax-calculations-in-power-bi-desktop_image48.png)を参照。
+
+	*すべての営業担当者が目標を達成していないように見えますが、このテーブルビジュアルはまだ特定の期間でフィルタリングされていないことを忘れないでください。ユーザーが選択した期間でフィルタリングする営業成績レポートは、「**Power BI Desktop でレポートをデザインする Part1**」の実習で作成します*
+
+15. フィールドペインの右上隅で、ペインを折りたたんでから展開すると、ペインが開きます。
+
+	![写真45](Linked_image_Files/05-create-dax-calculations-in-power-bi-desktop_image49.png)
+
+	*ペインを折りたたみ、再度開くと、内容がリセットされます。*
+
+16. **Targets** テーブルがリストの一番上に表示されるようになったことに注意してください。
+
+	![画像46](Linked_image_Files/05-create-dax-calculations-in-power-bi-desktop_image50.png)
+
+	*可視メジャーだけで構成されるテーブルは、自動的にリストの一番上に表示されます。*
+
 ### <a name="task-2-finish-up"></a>**タスク 2: 完了**
 
 このタスクでは、ラボを完了します。
