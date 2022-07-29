@@ -152,7 +152,7 @@ _重要:「**Power BI Desktop でレポートを設計する (パート 2)** 」
 
    ![画像 8](Linked_image_Files/09-create-power-bi-dashboard_image14.png)
 
-2. 「**ファイル**」タイルで、「**取得**」をクリックします。
+2. 「**データを取得**」メニューで、「**ファイル**」タイルの「**取得**」をクリックします。
 
    ![画像 2](Linked_image_Files/09-create-power-bi-dashboard_image15.png)
 
@@ -160,7 +160,7 @@ _重要:「**Power BI Desktop でレポートを設計する (パート 2)** 」
 
    ![画像 5](Linked_image_Files/09-create-power-bi-dashboard_image16.png)
 
-4. **[開く]** ウィンドウで、**D:\PL300\Labs\08-design-report-in-power-bi-desktop-enhanced\Solution** フォルダーに移動します。
+4. **[開く]** ウィンドウで、**D:\PL300\Labs\08-create-power-bi-dashboard\Starter** フォルダーに移動します。
 
 5. **Sales Analysis.pbix** ファイルを選択し、「**開く**」をクリックします。
 
