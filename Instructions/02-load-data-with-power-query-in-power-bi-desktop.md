@@ -378,8 +378,6 @@ _重要:詳細な手順が既に提供されている場合、ラボの手順で
 
 10. ステータス バーで、クエリに 6 列と 701 行が含まれているかどうかを確認します。
 
-    ![画像 5657](Linked_image_Files/02-load-data-with-power-query-in-power-bi-desktop_image42.png)
-
 ### <a name="task-6-configure-the-region-query"></a>**タスク 6: Region クエリを構成する**
 
 このタスクでは、**Region** クエリを構成します。
