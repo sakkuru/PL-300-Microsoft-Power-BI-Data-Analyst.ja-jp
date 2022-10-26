@@ -140,9 +140,8 @@ _重要:「**Power BI ダッシュボードを作成する**」のラボで既�
 
    ![画像 1](Linked_image_Files/10-perform-data-analysis-in-power-bi-desktop_image11.png)
 
-9. 「**Sales Analysis**」データセットへのライブ接続を作成するには、「**ホーム**」リボン タブの「**データ**」グループ内から「**Power BI データセット**」をクリックします。
+9. 「**Sales Analysis**」データセットへのライブ接続を作成するには、「**ホーム**」リボン タブの「**Dataハブ**」グループ内から「**Power BI データセット**」をクリックします。
 
-   ![画像 15](Linked_image_Files/10-perform-data-analysis-in-power-bi-desktop_image12.png)
 
 10. **[レポートを作成するデータセットの選択]** ウィンドウで、**Sales Analysis** データセットを選択します。
 
