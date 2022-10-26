@@ -145,9 +145,7 @@ _重要:「**Power BI ダッシュボードを作成する**」のラボで既�
 
 10. **[レポートを作成するデータセットの選択]** ウィンドウで、**Sales Analysis** データセットを選択します。
 
-11. **Create** をクリックしてください。
-
-    ![画像 17](Linked_image_Files/10-perform-data-analysis-in-power-bi-desktop_image13.png)
+11. **接続** をクリックしてください。
 
 12. Power BI Desktop ファイルを保存します。
 
