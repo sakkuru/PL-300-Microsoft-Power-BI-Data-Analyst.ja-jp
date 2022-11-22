@@ -56,8 +56,6 @@ ms.locfileid: '139273716'
 
 このタスクではこのラボ用の環境を設定します。
 
-_重要:前のラボから続行している場合 (かつそのラボを正常に完了した場合) は、このタスクを実行しないで、次のタスクから続けてください。"_
-
 1. Power BI Desktop を開くには、タスク バーにある Microsoft Power BI Desktop のショートカットをクリックします。
 
    ![画像 50](Linked_image_Files/05-create-dax-calculations-in-power-bi-desktop_image1.png)
@@ -76,7 +74,7 @@ _重要:前のラボから続行している場合 (かつそのラボを正常�
 
    ![画像 47](Linked_image_Files/05-create-dax-calculations-in-power-bi-desktop_image4.png)
 
-1. **[開く]** ウィンドウで、**D:\PL300\Labs\04-create-dax-calculations-in-power-bi-desktop\Starter** フォルダーに移動します。
+1. **[開く]** ウィンドウで、 **D:\PL300\Labs\01\Sterter\04-create-dax-calculations-in-power-bi-desktop\Starter\** フォルダーに移動します。
 
 1. **Sales Analysis** ファイルを選択します。
 
