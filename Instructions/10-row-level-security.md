@@ -74,7 +74,7 @@ _重要:前のラボから継続している (および、そのラボを正常�
 
    ![画像 5](Linked_image_Files/04-configure-data-model-in-power-bi-desktop-advanced_image4.png)
 
-1. **[開く]** ウィンドウで、**D:\PL300\Labs\10-row-level-security\Starter** フォルダーに移動します。
+1. **[開く]** ウィンドウで、**D:\PL300\Labs\01\Starter\10-row-level-security\Starter** フォルダーに移動します。
 
 1. **Sales Analysis** ファイルを選択します。
 
