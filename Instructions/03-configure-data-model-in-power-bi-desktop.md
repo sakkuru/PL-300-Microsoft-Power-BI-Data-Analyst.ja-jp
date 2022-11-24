@@ -2,12 +2,6 @@
 lab:
   title: Power BI Desktop でデータをモデル化する (パート 1)
   module: Module 4 - Design a Data Model in Power BI
-ms.openlocfilehash: cbec1e2dc3bb7738b2e78de88e30b1d56cb79b60
-ms.sourcegitcommit: 3520e7d016e94549d408464207c1b91cd47867c2
-ms.translationtype: HT
-ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2022
-ms.locfileid: '139273652'
 ---
 
 # <a name="model-data-in-power-bi-desktop-part-1"></a>**Power BI Desktop でデータをモデル化する (パート 1)**
@@ -76,7 +70,7 @@ _重要:前のラボから継続している (および、そのラボを正常�
 
    ![画像 8](Linked_image_Files/03-configure-data-model-in-power-bi-desktop_image4.png)
 
-1. **[開く]** ウィンドウで、**D:\PL300\Labs\03-configure-data-model-in-power-bi-desktop\Starter** フォルダーに移動します。
+1. **[開く]** ウィンドウで、**D:\PL300\Labs\01\Starter\03-configure-data-model-in-power-bi-desktop\Starter** フォルダーに移動します。
 
 1. **Sales Analysis** ファイルを選択します。
 
