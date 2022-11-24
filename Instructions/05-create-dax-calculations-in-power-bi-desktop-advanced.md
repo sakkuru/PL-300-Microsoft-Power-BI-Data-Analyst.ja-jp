@@ -2,12 +2,6 @@
 lab:
   title: Power BI Desktop で DAX 計算を作成する (パート 2)
   module: Module 5 - Create Model Calculations using DAX in Power BI
-ms.openlocfilehash: 80cfdfcfcb2072277760670c549cebaaca434cb9
-ms.sourcegitcommit: 3520e7d016e94549d408464207c1b91cd47867c2
-ms.translationtype: HT
-ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2022
-ms.locfileid: '139273336'
 ---
 
 # <a name="create-dax-calculations-in-power-bi-desktop-part-2"></a>**Power BI Desktop で DAX 計算を作成する (パート 2)**
@@ -74,7 +68,7 @@ _重要:前のラボから続行している場合 (かつそのラボを正常�
 
    ![画像 9](Linked_image_Files/06-create-dax-calculations-in-power-bi-desktop-advanced_image4.png)
 
-1. **[開く]** ウィンドウで、**D:\PL300\Labs\05-create-dax-calculations-in-power-bi-desktop-advanced\Starter** フォルダーに移動します。
+1. **[開く]** ウィンドウで、**D:\PL300\Labs\01\Starter\05-create-dax-calculations-in-power-bi-desktop-advanced\Starter** フォルダーに移動します。
 
 1. **Sales Analysis** ファイルを選択します。
 
@@ -150,7 +144,7 @@ _重要:前のラボから続行している場合 (かつそのラボを正常�
 
 1. 次の式に基づいて、**Sales** テーブルにメジャーを追加します。
 
-   "利便性のために、このラボのすべての DAX 定義は、**D:\PL300\Labs\05-create-dax-calculations-in-power-bi-desktop-advanced\Assets\Snippets.txt** ファイルからコピーできます。"
+   "利便性のために、このラボのすべての DAX 定義は、**D:\PL300\Labs\01\Starter\05-create-dax-calculations-in-power-bi-desktop-advanced\Assets\Snippets.txt** ファイルからコピーできます。"
 
 
     **DAX**
