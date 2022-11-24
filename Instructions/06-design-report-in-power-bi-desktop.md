@@ -2,12 +2,6 @@
 lab:
   title: Power BI Desktop でレポートを設計する (パート 1)
   module: Module 7 - Create Reports
-ms.openlocfilehash: 9aa794d25d2eb2ec611315a7ec6ac472e9a3a141
-ms.sourcegitcommit: 3520e7d016e94549d408464207c1b91cd47867c2
-ms.translationtype: HT
-ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2022
-ms.locfileid: '139273832'
 ---
 
 # <a name="design-a-report-in-power-bi-desktop-part-1"></a>**Power BI Desktop でレポートを設計する (パート 1)**
@@ -139,7 +133,7 @@ _重要:前のラボから続行している場合 (かつそのラボを正常�
 
    ![画像 30](Linked_image_Files/07-design-report-in-power-bi-desktop_image7.png)
 
-8. **[開く]** ウィンドウで、**D:\PL300\Labs\06-design-report-in-power-bi-desktop\Starter** フォルダーに移動します。
+8. **[開く]** ウィンドウで、**D:\PL300\Labs\01\Starter\06-design-report-in-power-bi-desktop\Starter** フォルダーに移動します。
 
 9. **Sales Analysis** ファイルを選択します。
 
