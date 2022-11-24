@@ -320,10 +320,15 @@ _重要:「**Power BI Desktop でレポートを設計する (パート 2)** 」
 1. エクスプローラーで、**D:\PL300\Setup** フォルダー内の **UpdateDatabase-2-AddSales.ps1** ファイルを右クリックし、 **[PowerShell で実行]** を選択します。
 
    ![画像 28](Linked_image_Files/09-create-power-bi-dashboard_image46.png)
+   
 
 2. 実行ポリシーを変更するよう求められた場合は、**A** キーを押します。
 
 3. キーを押して閉じるように求められたら、**Enter** をもう一度押します。
+
+
+   > 注: 実行した際にエラーが出た場合、Setupフォルダー内のScripts/UpdateDatabase-2.sqlをメモ帳で開き、4行目の「DA100」を「PL300」に変更して保存し、再度実行して下さい。
+
 
    "**AdventureWorksDW2020** データベースに、2020 年 6 月に行われた販売注文が含まれるようになりました。"
 
