@@ -2,12 +2,6 @@
 lab:
   title: Power BI Desktop でデータ分析を実行する
   module: Module 10 - Perform Advanced Analytics
-ms.openlocfilehash: 083abd0da7c0423a40985602d8db09d752f064cd
-ms.sourcegitcommit: 3520e7d016e94549d408464207c1b91cd47867c2
-ms.translationtype: HT
-ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2022
-ms.locfileid: '139273812'
 ---
 
 # <a name="perform-data-analysis-in-power-bi-desktop"></a>**Power BI Desktop でデータ分析を実行する**
@@ -102,7 +96,7 @@ _重要:「**Power BI ダッシュボードを作成する**」のラボで既�
 
    ![画像 11](Linked_image_Files/10-perform-data-analysis-in-power-bi-desktop_image6.png)
 
-4. **[開く]** ウィンドウで、**D:\PL300\Labs\08-create-power-bi-dashboard\Solution** フォルダーに移動します。
+4. **[開く]** ウィンドウで、**D:\PL300\Labs\01\Starter\08-create-power-bi-dashboard\Solution** フォルダーに移動します。
 
 5. **Sales Analysis.pbix** ファイルを選択し、「**開く**」をクリックします。
 
