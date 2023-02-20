@@ -2,12 +2,6 @@
 lab:
   title: 行レベルのセキュリティを実行する
   module: Module 13 - Row-Level Security
-ms.openlocfilehash: b4b468b1c34d0cb562edd9ec407b07c9ee2efa1d
-ms.sourcegitcommit: 3520e7d016e94549d408464207c1b91cd47867c2
-ms.translationtype: HT
-ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2022
-ms.locfileid: '139273637'
 ---
 
 # <a name="enforce-row-level-security"></a>**行レベルのセキュリティを適用する**
@@ -32,19 +26,19 @@ ms.locfileid: '139273637'
 
 3. Power BI Desktop でデータをモデル化する
 
-4. Power BI Desktop での DAX 計算の作成、パート 1
+4. Power BI Desktop での DAX 計算を作成する
 
-5. Power BI Desktop で DAX 計算を作成する (パート 2)
+5. Power BI Desktop で 高度な DAX 計算を作成する
 
-6. Power BI Desktop でレポートを設計する (パート 1)
+6. Power BI Desktop でレポートを設計する
 
-7. Power BI Desktop でレポートを設計する (パート 2)
+7. Power BI Desktop でレポートを拡張する
 
 8. Power BI ダッシュボードを作成する
 
 9. Power BI Desktop でデータ分析を実行する
 
-10. **行レベルのセキュリティを適用する**
+10. **行レベルのセキュリティを実行する**
 
 ## <a name="exercise-1-enforce-row-level-security"></a>**演習 1: 行レベルのセキュリティを適用する**
 

@@ -26,13 +26,13 @@ lab:
 
 3. Power BI Desktop でデータをモデル化する
 
-4. Power BI Desktop での DAX 計算の作成、パート 1
+4. Power BI Desktop での DAX 計算を作成する
 
-5. Power BI Desktop で DAX 計算を作成する (パート 2)
+5. Power BI Desktop で 高度な DAX 計算を作成する
 
-6. Power BI Desktop でレポートを設計する (パート 1)
+6. Power BI Desktop でレポートを設計する
 
-7. Power BI Desktop でレポートを設計する (パート 2)
+7. Power BI Desktop でレポートを拡張する
 
 8. Power BI ダッシュボードを作成する
 

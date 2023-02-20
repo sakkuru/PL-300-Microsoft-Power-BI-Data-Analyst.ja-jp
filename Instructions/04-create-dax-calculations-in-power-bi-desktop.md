@@ -1,16 +1,10 @@
 ---
 lab:
-  title: Power BI Desktop での DAX 計算の作成、パート 1
+  title: Power BI Desktop での DAX 計算の作成
   module: Module 5 - Create Model Calculations using DAX in Power BI
-ms.openlocfilehash: 27cbc5c39cdc89c2a54422bbe3468cd13c553ddc
-ms.sourcegitcommit: 3520e7d016e94549d408464207c1b91cd47867c2
-ms.translationtype: HT
-ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2022
-ms.locfileid: '139273716'
 ---
 
-# <a name="create-dax-calculations-in-power-bi-desktop-part-1"></a>**Power BI Desktop で DAX 計算を作成する (パート 1)**
+# <a name="create-dax-calculations-in-power-bi-desktop-part-1"></a>**Power BI Desktop で DAX 計算を作成する**
 
 **このラボの推定所要時間: 45 分**
 
@@ -34,13 +28,13 @@ ms.locfileid: '139273716'
 
 3. Power BI Desktop でデータをモデル化する
 
-4. **Power BI Desktop で DAX 計算を作成する (パート 1)**
+4. **Power BI Desktop での DAX 計算を作成する**
 
-5. Power BI Desktop で DAX 計算を作成する (パート 2)
+5. Power BI Desktop で 高度な DAX 計算を作成する
 
-6. Power BI Desktop でレポートを設計する (パート 1)
+6. Power BI Desktop でレポートを設計する
 
-7. Power BI Desktop でレポートを設計する (パート 2)
+7. Power BI Desktop でレポートを拡張する
 
 8. Power BI ダッシュボードを作成する
 
