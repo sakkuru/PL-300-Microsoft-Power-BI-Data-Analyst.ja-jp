@@ -22,23 +22,23 @@ lab:
 
 1. Power BI Desktop でのデータの準備
 
-2. **Power BI Desktop でデータを読み込む**
+2. **Power BI Desktop にデータを読み込む**
 
 3. Power BI Desktop でデータをモデル化する
 
-5) Power BI Desktop での DAX 計算の作成、パート 1
+4. Power BI Desktop での DAX 計算を作成する
 
-6) Power BI Desktop で DAX 計算を作成する (パート 2)
+5. Power BI Desktop で 高度な DAX 計算を作成する
 
-7) Power BI Desktop でレポートを設計する (パート 1)
+6. Power BI Desktop でレポートを設計する
 
-8) Power BI Desktop でレポートを設計する (パート 2)
+7. Power BI Desktop でレポートを拡張する
 
-9) Power BI ダッシュボードを作成する
+8. Power BI ダッシュボードを作成する
 
-10) Power BI Desktop でデータ分析を実行する
+9. Power BI Desktop でデータ分析を実行する
 
-11) 行レベルのセキュリティを実行する
+10. 行レベルのセキュリティを実行する
 
 ## <a name="exercise-1-load-data"></a>**演習 1: データを読み込む**
 
