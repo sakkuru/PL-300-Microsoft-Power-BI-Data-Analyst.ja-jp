@@ -112,7 +112,7 @@ _重要:前のラボから継続している (および、そのラボを正常�
 
    ![画像 6](Linked_image_Files/08-design-report-in-power-bi-desktop-enhanced_image8.png)
 
-8. **[開く]** ウィンドウで、**D:\PL300\Labs\01\Starter\07-design-report-in-power-bi-desktop-enhanced\Starter** フォルダーに移動します。
+8. **[開く]** ウィンドウで、**D:\PL300\Labs\07-design-report-in-power-bi-desktop-enhanced\Starter** フォルダーに移動します。
 
 9. **Sales Analysis** ファイルを選択します。
 

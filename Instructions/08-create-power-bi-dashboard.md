@@ -116,7 +116,7 @@ _重要:前のラボから継続している (および、そのラボを正常�
 
    ![画像 34](Linked_image_Files/09-create-power-bi-dashboard_image9.png)
 
-8. **[開く]** ウィンドウで、**D:\PL300\Labs\01\Starter\08-create-power-bi-dashboard\Starter** フォルダーに移動します。
+8. **[開く]** ウィンドウで、**D:\PL300\Labs\08-create-power-bi-dashboard\Starter** フォルダーに移動します。
 
 9. **Sales Analysis** ファイルを選択します。
 
@@ -160,7 +160,7 @@ _重要:「**Power BI Desktop でレポートを設計する (パート 2)** 」
 
    ![画像 5](Linked_image_Files/09-create-power-bi-dashboard_image16.png)
 
-4. **[開く]** ウィンドウで、**D:\PL300\Labs\01\Starter\08-create-power-bi-dashboard\Starter** フォルダーに移動します。
+4. **[開く]** ウィンドウで、**D:\PL300\Labs\08-create-power-bi-dashboard\Starter** フォルダーに移動します。
 
 5. **Sales Analysis.pbix** ファイルを選択し、「**開く**」をクリックします。
 

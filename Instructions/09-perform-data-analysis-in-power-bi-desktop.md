@@ -96,7 +96,7 @@ _重要:「**Power BI ダッシュボードを作成する**」のラボで既�
 
    ![画像 11](Linked_image_Files/10-perform-data-analysis-in-power-bi-desktop_image6.png)
 
-4. **[開く]** ウィンドウで、**D:\PL300\Labs\01\Starter\08-create-power-bi-dashboard\Solution** フォルダーに移動します。
+4. **[開く]** ウィンドウで、**D:\PL300\Labs\08-create-power-bi-dashboard\Solution** フォルダーに移動します。
 
 5. **Sales Analysis.pbix** ファイルを選択し、「**開く**」をクリックします。
 
