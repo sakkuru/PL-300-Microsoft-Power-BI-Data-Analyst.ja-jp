@@ -2,12 +2,6 @@
 lab:
   title: Power BI Desktop でのデータの準備
   module: Module 2 - Get Data in Power BI
-ms.openlocfilehash: deaa403224e029a08c91ed5137693d51ac30fcab
-ms.sourcegitcommit: 3520e7d016e94549d408464207c1b91cd47867c2
-ms.translationtype: HT
-ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2022
-ms.locfileid: '139273725'
 ---
 
 # <a name="prepare-data-in-power-bi-desktop"></a>**Power BI Desktop でのデータの準備**
@@ -38,20 +32,19 @@ ms.locfileid: '139273725'
 
 3. Power BI Desktop でデータをモデル化する
 
-4. Power BI Desktop での DAX 計算の作成、パート 1
+4. Power BI Desktop での DAX 計算を作成する
 
-5. Power BI Desktop で DAX 計算を作成する (パート 2)
+5. Power BI Desktop で 高度な DAX 計算を作成する
 
-6. Power BI Desktop でレポートを設計する (パート 1)
+6. Power BI Desktop でレポートを設計する
 
-7. Power BI Desktop でレポートを設計する (パート 2)
+7. Power BI Desktop でレポートを拡張する
 
 8. Power BI ダッシュボードを作成する
 
 9. Power BI Desktop でデータ分析を実行する
 
 10. 行レベルのセキュリティを実行する
-
 ## <a name="exercise-1-prepare-data"></a>**演習 1: データの準備**
 
 この演習では、8 個の Power BI Desktop クエリを作成します。 6 個のクエリは、SQL Server のデータ、2 個は CSV ファイルのデータをそれぞれソースとします。
