@@ -138,27 +138,17 @@ _重要:前のラボから継続している (および、そのラボを正常�
 
 ### <a name="task-3-get-started--publish-the-report"></a>**タスク 3: 開始する - レポートを発行する**
 
-このタスクでは、データセットを作成してこのラボ用の環境を設定します。
+このタスクでは、データセットを作成してラボの環境をセットアップします。データセットを既に公開している場合は、次のタスクに進んでください。
 
-_重要:「**Power BI Desktop でレポートを設計する (パート 2)** 」のラボでレポートを既に発行している場合は、次のタスクから続行してください。"_
+1. Microsoft Edge ブラウザー ウィンドウの Power BI サービスで、 **マイワークスペース** に移動します。
 
-1. Microsoft Edge ブラウザー ウィンドウの Power BI サービスの「**ナビゲーション**」ウィンドウで、「**マイ ワークスペース**」を展開します。
+1. [アップロード] > [参照]を選択します。
 
-   ![画像 8](Linked_image_Files/09-create-power-bi-dashboard_image14.png)
+1. **D:\PL300\Labs\09-create-power-bi-dashboard\Starter** フォルダーに移動します。
 
-2. 「**データを取得**」メニューで、「**ファイル**」タイルの「**取得**」をクリックします。
+1. Sales Analysis.pbixファイルを選択し、[開く]を選択します。
 
-   ![画像 2](Linked_image_Files/09-create-power-bi-dashboard_image15.png)
-
-3. 「**ローカル ファイル**」タイルをクリックします。
-
-   ![画像 5](Linked_image_Files/09-create-power-bi-dashboard_image16.png)
-
-4. **[開く]** ウィンドウで、**D:\PL300\Labs\08-create-power-bi-dashboard\Starter** フォルダーに移動します。
-
-5. **Sales Analysis.pbix** ファイルを選択し、「**開く**」をクリックします。
-
-6. データセットを置き換えるメッセージが表示されたら、「**置換**」をクリックします。
+  * データセットを置き換えるように求められたら、[置き換える]を選択します。
 
 ### <a name="task-4-create-a-dashboard"></a>**タスク 4: ダッシュボードを作成する**
 
