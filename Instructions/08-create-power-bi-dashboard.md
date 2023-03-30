@@ -102,7 +102,7 @@ _重要:前のラボから継続している (および、そのラボを正常�
 
    ![画像 34](Linked_image_Files/09-create-power-bi-dashboard_image9.png)
 
-8. **[開く]** ウィンドウで、**D:\PL300\Labs\08-create-power-bi-dashboard\Starter** フォルダーに移動します。
+8. **[開く]** ウィンドウで、**D:\PL300\Labs\09-create-power-bi-dashboard\Starter** フォルダーに移動します。
 
 9. **Sales Analysis** ファイルを選択します。
 
