@@ -50,15 +50,15 @@ lab:
 
 このタスクでは、Power BI にサインインしてこのラボ用の環境を設定します。
 
-_重要:前のラボで既に Power BI にサインインしている場合は、次のタスクから続行します。"_
+_重要:前のラボで既に Power BI にサインインしている場合は、次のタスクから続行します。_
 
 1. Microsoft Edge を開くには、タスク バーの Microsoft Edge プログラムのショートカットをクリックします。
 
-   ![画像 42](Linked_image_Files/09-create-power-bi-dashboard_image2.png)
+    ![画像 42](Linked_image_Files/09-create-power-bi-dashboard_image2.png)
 
 2. Microsoft Edge ブラウザー ウィンドウで、**https://powerbi.com** に移動します。
 
-   _ヒント:Microsoft Edge のお気に入りバーで、Power BI サービスのお気に入りを使用することもできます。"_
+   _ヒント:Microsoft Edge のお気に入りバーで、Power BI サービスのお気に入りを使用することもできます。_
 
 3. 「**サインイン**」 (右上隅) をクリックします。
 
@@ -96,11 +96,11 @@ _重要:前のラボから継続している (および、そのラボを正常�
 
 6. **[レポートを開く]** を選択します。
 
-   ![画像 36](Linked_image_Files/09-create-power-bi-dashboard_image8.png)
+    ![画像 36](Linked_image_Files/09-create-power-bi-dashboard_image8.png)
 
-7. 「**レポートを参照**」をクリックします。
+7. **[レポートを参照]** をクリックします。
 
-   ![画像 34](Linked_image_Files/09-create-power-bi-dashboard_image9.png)
+    ![画像 34](Linked_image_Files/09-create-power-bi-dashboard_image9.png)
 
 8. **[開く]** ウィンドウで、**D:\PL300\Labs\09-create-power-bi-dashboard\Starter** フォルダーに移動します。
 
@@ -112,13 +112,13 @@ _重要:前のラボから継続している (および、そのラボを正常�
 
 11. 情報ウィンドウが開いている場合はすべて閉じます。
 
-12. ファイルのコピーを作成するには、「**ファイル**」リボン タブをクリックして、バックステージ ビューを開きます。
+12. ファイルのコピーを作成するには、**[ファイル]** リボン タブをクリックして、バックステージ ビューを開きます。
 
 13. **[名前を付けて保存]** を選択します。
 
     ![画像 29](Linked_image_Files/09-create-power-bi-dashboard_image11.png)
 
-14. 変更を適用するかどうかを確認するメッセージが表示されたら、「**適用**」をクリックします。
+14. 変更を適用するかどうかを確認するメッセージが表示されたら、**[適用]** をクリックします。
 
     ![画像 10](Linked_image_Files/09-create-power-bi-dashboard_image12.png)
 
@@ -150,39 +150,39 @@ _重要:前のラボから継続している (および、そのラボを正常�
 
 2. **[Overview]** ページで、**[Year]** スライサーを **FY2020** に設定します。
 
-   ![画像 4](Linked_image_Files/09-create-power-bi-dashboard_image17.png)
+    ![画像 4](Linked_image_Files/09-create-power-bi-dashboard_image17.png)
 
 3. **[Region]** スライサーを **[すべて選択]** に設定します。
 
-   _視覚化をダッシュボードにピン留めすると、現在のフィルター コンテキストが使用されます。ピン留めした後は、フィルター コンテキストを変更できません。時間ベースのフィルターの場合、相対日付スライサー (または、相対時間ベースの質問を使用した Q&A) を使用することをお勧めします。"_
+   _視覚化をダッシュボードにピン留めすると、現在のフィルター コンテキストが使用されます。ピン留めした後は、フィルター コンテキストを変更できません。時間ベースのフィルターの場合、相対日付スライサー (または、相対時間ベースの質問を使用した Q&A) を使用することをお勧めします。_
 
 4. ダッシュボードを作成して視覚化をピン留めするには、**[Sales and Profit Margin by Month]\(Month による Sales および Profit Margin\)** 視覚化にカーソルを合わせます。
 
 5. 右上隅にあるプッシュピンをクリックします。
 
-   ![画像 43](Linked_image_Files/09-create-power-bi-dashboard_image18.png)
+    ![画像 43](Linked_image_Files/09-create-power-bi-dashboard_image18.png)
 
 6. **[ダッシュボードにピン留めする]** ウィンドウで、**[ダッシュボード名]** ボックスに「**Sales Monitoring**」(売上モニタリング) と入力します。
 
-   ![図 3](Linked_image_Files/09-create-power-bi-dashboard_image19.png)
+    ![図 3](Linked_image_Files/09-create-power-bi-dashboard_image19.png)
 
 7. **[ピン留めする]** をクリックします。
 
-   ![画像 1](Linked_image_Files/09-create-power-bi-dashboard_image20.png)
+    ![画像 1](Linked_image_Files/09-create-power-bi-dashboard_image20.png)
 
 8. **ナビゲーション** ペインを開き、**[Sales Monitoring](売上モニタリング)** ダッシュボードを開きます。
 
-   ![画像 44](Linked_image_Files/09-create-power-bi-dashboard_image21.png)
+    ![画像 44](Linked_image_Files/09-create-power-bi-dashboard_image21.png)
 
 9. ダッシュボードに 1 つのタイルがあることがわかります。
 
-   ![画像 45](Linked_image_Files/09-create-power-bi-dashboard_image22.png)
+    ![画像 45](Linked_image_Files/09-create-power-bi-dashboard_image22.png)
 
 10. 質問に基づいてタイルを追加するには、ダッシュボードの左上にある **[データについて質問する]** をクリックします。
 
     ![画像 7](Linked_image_Files/09-create-power-bi-dashboard_image23.png)
 
-    "Q&A 機能を使用して質問することができ、Power BI はビジュアルを使用して応答します。"
+    Q&A 機能を使用して質問することができ、Power BI はビジュアルを使用して応答します。
 
 11. 青色のボックスの Q&A ボックスの下にある、おすすめの質問のいずれかをクリックします。
 
@@ -198,13 +198,13 @@ _重要:前のラボから継続している (および、そのラボを正常�
 
     ![画像 14](Linked_image_Files/09-create-power-bi-dashboard_image25.png)
 
-    "「**Power BI Desktop で DAX 計算を作成する (パート 2)** 」のラボで **[Sales YTD]** メジャーを追加したことが思い出されるかもしれません。"_このメジャーはタイム インテリジェンス式であり、結果を生成するには **Date** テーブルにフィルターを適用する必要があります。"_
+    「**Power BI Desktop で 高度な DAX 計算を作成する** 」のラボで **[Sales YTD]** メジャーを追加したことが思い出されるかもしれません。"_このメジャーはタイム インテリジェンス式であり、結果を生成するには **Date** テーブルにフィルターを適用する必要があります。_
 
 16. 質問を **in year FY2020** (FY2020 年度の) で拡張します。
 
     ![画像 12](Linked_image_Files/09-create-power-bi-dashboard_image26.png)
 
-17. 応答が **\$33M** になったことに注意してください。
+17. 応答が **$33M** になったことに注意してください。
 
     ![画像 13](Linked_image_Files/09-create-power-bi-dashboard_image27.png)
 
@@ -244,7 +244,7 @@ _重要:前のラボから継続している (および、そのラボを正常�
 
 26. ロゴ タイルのサイズを変更するには、右下隅をドラッグし、タイルのサイズを 1 単位の幅、2 単位の高さに変更します。
 
-    "タイルのサイズは、四角形のシェイプに制限されます。_四角形のシェイプの倍数にのみサイズ変更することができます。"_
+    タイルのサイズは、四角形のシェイプに制限されます。_四角形のシェイプの倍数にのみサイズ変更することができます。_
 
 27. ロゴが左上に、**[Sales YTD]\(売上 YTD\)** タイルがその下に、**[Sales, Profit Margin]\(売上、利益率\)** タイルが右側に表示されるようにタイルを整頓します。
 
@@ -260,25 +260,25 @@ _重要:前のラボから継続している (および、そのラボを正常�
 
 2. (右側にある) **[タイルの詳細]** ペインで、**[サブタイトル]** ボックスに「**FY2020**」と入力します。
 
-   ![画像 19](Linked_image_Files/09-create-power-bi-dashboard_image37.png)
+    ![画像 19](Linked_image_Files/09-create-power-bi-dashboard_image37.png)
 
 3. **[Apply]** をクリックします。
 
-   ![画像 20](Linked_image_Files/09-create-power-bi-dashboard_image38.png)
+    ![画像 20](Linked_image_Files/09-create-power-bi-dashboard_image38.png)
 
 4. **[Sales YTD]** タイルにサブタイトルが表示されていることに注意してください。
 
-   ![画像 21](Linked_image_Files/09-create-power-bi-dashboard_image39.png)
+    ![画像 21](Linked_image_Files/09-create-power-bi-dashboard_image39.png)
 
 5. **[Sales, Profit Margin]** タイルの[詳細を編集]を開きます。
 
 6. **[タイルの詳細]** ペインの **[機能]** セクションで、**[最終更新日時の表示]** をオンにします。
 
-   ![画像 22](Linked_image_Files/09-create-power-bi-dashboard_image40.png)
+    ![画像 22](Linked_image_Files/09-create-power-bi-dashboard_image40.png)
 
 7. **[Apply]** をクリックします。
 
-   ![画像 23](Linked_image_Files/09-create-power-bi-dashboard_image41.png)
+    ![画像 23](Linked_image_Files/09-create-power-bi-dashboard_image41.png)
 
 8. タイルに最終更新日時 (Power BI Desktop でデータ モデルを読み込むときに行ったもの) が表示されていることに注意してください。
 
@@ -295,18 +295,13 @@ _重要:前のラボから継続している (および、そのラボを正常�
 
 1. エクスプローラーで、**D:\PL300\Setup** フォルダー内の **UpdateDatabase-2-AddSales.ps1** ファイルを右クリックし、 **[PowerShell で実行]** を選択します。
 
-   ![画像 28](Linked_image_Files/09-create-power-bi-dashboard_image46.png)
-   
+    ![画像 28](Linked_image_Files/09-create-power-bi-dashboard_image46.png)
 
 2. 実行ポリシーを変更するよう求められた場合は、**A** キーを押します。
 
 3. キーを押して閉じるように求められたら、**Enter** をもう一度押します。
 
-
-   > 注: 実行した際にエラーが出た場合、Setupフォルダー内のScripts/UpdateDatabase-2.sqlをメモ帳で開き、4行目の「DA100」を「PL300」に変更して保存し、再度実行して下さい。
-
-
-   "**AdventureWorksDW2020** データベースに、2020 年 6 月に行われた販売注文が含まれるようになりました。"
+   **AdventureWorksDW2020** データベースに、2020 年 6 月に行われた販売注文が含まれるようになりました。
 
 ### <a name="task-2-refresh-the-power-bi-desktop-file"></a>**タスク 2: Power BI Desktop ファイルを最新の情報に更新する**
 
@@ -314,17 +309,17 @@ _重要:前のラボから継続している (および、そのラボを正常�
 
 1. 「**フィールド**」ウィンドウで「**Sales**」テーブルを右クリックし、「**データの更新**」を選択します。
 
-   ![画像 55](Linked_image_Files/09-create-power-bi-dashboard_image47.png)
+    ![画像 55](Linked_image_Files/09-create-power-bi-dashboard_image47.png)
 
 2. 更新が完了したら、Power BI Desktop ファイルを保存します。
 
 3. ファイルをワークスペースに発行するには、**[ホーム]** リボン タブの **[共有]** グループ内から、**[発行]** をクリックします。
 
-   ![画像 59](Linked_image_Files/09-create-power-bi-dashboard_image48.png)
+    ![画像 59](Linked_image_Files/09-create-power-bi-dashboard_image48.png)
 
 4. データセットの置換を求めるプロンプトが表示されたら、**[置換]** をクリックします。
 
-   ![画像 31](Linked_image_Files/09-create-power-bi-dashboard_image49.png)
+    ![画像 31](Linked_image_Files/09-create-power-bi-dashboard_image49.png)
 
    _Power BI サービス内のデータセットには、2020 年 6 月の売上データが含まれるようになりました。_
 
@@ -344,10 +339,10 @@ _重要:前のラボから継続している (および、そのラボを正常�
 
 3. **2020 年 6 月** の列があることにも注目してください。
 
-   "2020 年 6 月のデータがない場合は、**F5** キーを押して Web ブラウザーをもう一度読み込む必要があります。"
+   2020 年 6 月のデータがない場合は、**F5** キーを押して Web ブラウザーをもう一度読み込む必要があります。
 
    ![画像 33](Linked_image_Files/09-create-power-bi-dashboard_image50.png)
 
-4) **[Sales YTD]** タイルが **\$37M** に更新されていることに注目してください。
+4. **[Sales YTD]** タイルが **$37M** に更新されていることに注目してください。
 
-5) ウィンドウを閉じるには、「**閉じる**」をクリックします。
+5. ウィンドウを閉じるには、「**閉じる**」をクリックします。
