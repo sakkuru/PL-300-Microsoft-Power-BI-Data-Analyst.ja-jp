@@ -74,33 +74,24 @@ _重要:前のラボで既に Power BI にサインインしている場合は�
 
 1. Microsoft Edge ブラウザー ウィンドウの Power BI サービスの **[ナビゲーション]** ペインで、**[マイ ワークスペース]** を展開します。
 
-   ![画像 4](Linked_image_Files/10-perform-data-analysis-in-power-bi-desktop_image3.png)
-
 1. Microsoft Edge ブラウザー ウィンドウを開いたままにします。
 
 ### <a name="task-2-get-started--create-a-dataset"></a>**タスク 2: 開始する – データセットを作成する**
 
 このタスクでは、データセットを作成してこのラボ用の環境を設定します。
 
-_重要:「**Power BI ダッシュボードを作成する**」のラボで既にデータセットを発行している場合は、次のタスクから続行します。"_
+_重要:「**Power BI ダッシュボードを作成する**」のラボで既にデータセットを発行している場合は、次のタスクから続行します"_
 
 1. Microsoft Edge ブラウザー ウィンドウの Power BI サービスの「**ナビゲーション**」ウィンドウで、「**マイ ワークスペース**」を展開します。
 
-   ![画像 8](Linked_image_Files/10-perform-data-analysis-in-power-bi-desktop_image4.png)
 
-2. 「**ファイル**」タイルで、「**取得**」をクリックします。
+1. [アップロード] > [参照]を選択します。
 
-   ![画像 10](Linked_image_Files/10-perform-data-analysis-in-power-bi-desktop_image5.png)
+1. **D:\PL300\Labs\08-performe-data-analysis-in-power-bi-desktop\Starter** フォルダーに移動します。
 
-3. 「**ローカル ファイル**」タイルをクリックします。
+1. Sales Analysis.pbixファイルを選択し、[開く]を選択します。
 
-   ![画像 11](Linked_image_Files/10-perform-data-analysis-in-power-bi-desktop_image6.png)
-
-4. **[開く]** ウィンドウで、**D:\PL300\Labs\08-create-power-bi-dashboard\Solution** フォルダーに移動します。
-
-5. **Sales Analysis.pbix** ファイルを選択し、「**開く**」をクリックします。
-
-6. データセットを置き換えるメッセージが表示されたら、「**置換**」をクリックします。
+  * データセットを置き換えるように求められたら、[置き換える]を選択します。
 
 ### <a name="task-3-create-the-report"></a>**タスク 3: レポートを作成する**
 
@@ -108,17 +99,13 @@ _重要:「**Power BI ダッシュボードを作成する**」のラボで既�
 
 1. Power BI Desktop を開くには、タスク バーにある Microsoft Power BI Desktop のショートカットをクリックします。
 
-   _重要:(前のラボで) Power BI Desktop を既に開いている場合は、そのインスタンスを閉じます。"_
+   _重要:(前のラボで) Power BI Desktop を既に開いている場合は、そのインスタンスを閉じます。_
 
    ![画像 14](Linked_image_Files/10-perform-data-analysis-in-power-bi-desktop_image7.png)
 
 2. 「はじめに」ウィンドウを閉じるには、ウィンドウの左上にある「**X**」をクリックします。
 
-   ![画像 13](Linked_image_Files/10-perform-data-analysis-in-power-bi-desktop_image8.png)
-
 3. Power BI Desktop が Power BI サービスにサインインしていない場合は、右上の「**サインイン**」をクリックします。
-
-   ![画像 16](Linked_image_Files/10-perform-data-analysis-in-power-bi-desktop_image9.png)
 
 4. Power BI サービスへのサインインに使用したのと同じアカウントを使用して、サインイン プロセスを完了します。
 
