@@ -68,7 +68,7 @@ lab:
 
    ![画像 47](Linked_image_Files/05-create-dax-calculations-in-power-bi-desktop_image4.png)
 
-1. **[開く]** ウィンドウで、 **D:\PL300\Labs\04-create-dax-calculations-in-power-bi-desktop\Starter\** フォルダーに移動します。
+1. **[開く]** ウィンドウで、  **D:\PL300\Labs\04-create-dax-calculations-in-power-bi-desktop\Starter** フォルダーに移動します。
 
 1. **Sales Analysis** ファイルを選択します。
 
